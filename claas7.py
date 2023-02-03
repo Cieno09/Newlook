@@ -43,7 +43,7 @@ cars= ['bentley','benz','rolls roys','range rover', 'lexus']
 #     if car == 'range rover':
 #     continue
     
-brand=input ('brand of car')
+brand=input ('brand of house')
 if brand in cars :
 
     for car in cars :
