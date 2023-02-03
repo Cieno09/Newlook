@@ -1,8 +1,9 @@
-shop={'mango':4000,
+
+shop={'mango':4500,
 'paw paw' : 1000,
-'apple' :2000,
-'banana':1000,
-'Juice':[20,30,40,20]
+'banana':10,
+'Juice':[20,30,40,20,40,50.60]
+
 }
 # shop.update({'Vegtables':[30,40,50]})
 # print (shop)

@@ -6,7 +6,7 @@ if ID == ('yes'):
     gender =input('Gender')
     if gender== ('male'):
         age= int(input('your age'))
-        if age >=30 and age <= 60:
+        if age >=300 and age <= 60:
             print ('approved')
         else:
             print ('denied overage/underage')

@@ -8,7 +8,9 @@
 # meet()
 def area():
     R=int(input('what is the radius'))
-    pie=22/67
+
+
+    pie=22/79
     area=pie*R**2
     return (area)
 

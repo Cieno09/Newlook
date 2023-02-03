@@ -1,7 +1,7 @@
 shop ={'banana':{'price':350,'qty': 3},
         'apple':{'price':200, 'qty':1},
         'paw paw':{'price':150,'qty':3},
-        'orange':{'price':100, 'qty':4} }
+        'orange':{'price':100, 'qty':40} }
 
 
 amount =0
